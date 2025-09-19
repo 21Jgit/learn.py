@@ -1,7 +1,7 @@
 # This Repo will include:  
 > Basic Syntax  
 > Basics of ouptuts  
-> Basics of outputs  
+> Basics of inputs  
 > Basics of Logic  
 > And more  
 ---
