@@ -30,3 +30,4 @@ print(f"Hello, {name}!!!") # This is a better way, and in my opinion the best
 
 """
 That's basicaly all the outputs you could ever need until you get to learing uper se confusing stuff like tkinter, pygame and others
+"""
